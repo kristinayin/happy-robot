@@ -12,9 +12,9 @@ HOW TO USE:
 1. Download the TI Connect software for your calculator onto your computer.  
 https://education.ti.com/en/products/computer-software/ti-connect-sw
 
-2. Connect your calculator to your computer, and 
+2. Connect your calculator to your computer add it to the TI Connect program.
 
-3. Download the program you want and open it in the TI Connect program. 
+3. Download the program you want and open it in the TI Connect. 
 
 4. Upload the program to your calculator.
 
